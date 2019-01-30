@@ -1,0 +1,21 @@
+body{
+    background-color: lightseagreen;
+}
+img{
+    width: 100%;
+}
+#content {
+    width: 75%;
+    margin: auto;
+}
+#text{
+    background-color: deeppink;
+}
+
+#list{
+    background-color: yellow;
+}
+
+#button1{
+    width: 100%;
+}
